@@ -1,5 +1,3 @@
-package LINKED_LIST.classic_problems.IsPalindromeLL;
-
 import java.util.ArrayList;
 import java.util.List;
 
