@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    ".",
+    "ARRAY_AND_STRING/introduction_to_string"
+  ],
+  "java.project.outputPath": "ARRAY_AND_STRING/introduction_to_string/output",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
