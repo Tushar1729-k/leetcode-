@@ -1,7 +1,7 @@
 # intro
-the target audience for this card is anyone who wants to learn sorting from the group up or anyone that wants to refresh the core concepts involved in sorting algos. all levels are welcome but most of this card assumes minimal knowledge of sorting algos
+the target audience for this card is anyone who wants to learn sorting from the ground up or anyone that wants to refresh the core concepts involved in sorting algos. all levels are welcome but most of this card assumes minimal knowledge of sorting algos
 
-in this card we will develop a framework for understanndinng and evaluating various sorting algos. the focus will be on knowinng the tradeoffs of the various algos along with the overarching themes and implementation details
+in this card we will develop a framework for understanding and evaluating various sorting algos. the focus will be on knowing the tradeoffs of the various algos along with the overarching themes and implementation details
 
 by the end of this card u should have a solid understanding of a variety of sorting algos and feel comfortable applying the concepts of these algos to various problems
 

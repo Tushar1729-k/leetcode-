@@ -8,7 +8,7 @@ In this card we will introduce array and string. After finishing this card you s
 5. Be able to apply the `two-pointer technique` to practical problems.
 
 ## intro to array
-- intro to aray
+- intro to array
 - intro to dynamic array
 - find pivot index
 - largest number at least twice of others
@@ -21,7 +21,7 @@ In this card we will introduce array and string. After finishing this card you s
 - pascal's triangle
 
 ## intro to String
-- inntro to String
+- intro to String
 - immutable string - problems & solutions
 - add binary
 - implement strStr()
@@ -30,7 +30,7 @@ In this card we will introduce array and string. After finishing this card you s
 ## two pointer technique
 - reverse string
 - array partition i
-- two sum ii - input arrray is sorted!!!!!!!!!
+- two sum ii - input array is sorted!!!!!!!!!
 - two pointer technique - scenario ii
 - remove element
 - max consecutive ones

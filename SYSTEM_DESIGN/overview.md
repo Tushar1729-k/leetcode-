@@ -1,9 +1,9 @@
 # intro
-understanding and mastering system design qs r crucial in practicing for software engineering interviews. if ur not properly prepared for these qs n concepts in ur interview ull miss out on the opportunities of expanding ur career with a better paying position or even with a great company
+understanding and mastering system design questions are crucial in practicing for software engineering interviews. if you're not properly prepared for these questions and concepts in your interview you'll miss out on the opportunities of expanding your career with a better paying position or even with a great company
 
-now u wont have to sweat ur next interview. written by an expert FAANG tech lead with experience giving and taking over 500 system design interviews u can easily use this course to level up ur system design knowledge and nail future interviews
+now you won't have to sweat your next interview. written by an expert FAANG tech lead with experience giving and taking over 500 system design interviews you can easily use this course to level up your system design knowledge and nail future interviews
 
-u wont b able to find a system design course quite like this one. not only will u experience FAANG level case studies but ull have the direct ability to practice real world interview problems created by FAANG interviewers and apply the skills uve learned here!!!!
+you won't be able to find a system design course quite like this one. not only will you experience FAANG level case studies but you'll have the direct ability to practice real world interview problems created by FAANG interviewers and apply the skills you've learned here!!!!
 
 ## intro to system design
 - intro to system design
@@ -19,7 +19,7 @@ u wont b able to find a system design course quite like this one. not only will 
 - databases
 - rate limiting
 - design log aggregation system
-- design consistent hashing algo
+- design consistent hashing algorithm
 - design a rate limiting system
 - design a load distributor slash balancer (LB)
 - design an application monitoring system
@@ -30,7 +30,7 @@ u wont b able to find a system design course quite like this one. not only will 
 - google maps system design
 - airbnb system design
 - netflix system design
-- notfication service system design
+- notification service system design
 - tinyurl system design
 - twitter system design
 - uber system design
@@ -46,3 +46,4 @@ u wont b able to find a system design course quite like this one. not only will 
 - ticket booking app
 - food delivery app
 - practice problems
+
