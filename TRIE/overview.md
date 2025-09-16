@@ -1,7 +1,7 @@
 # Introduction
 `Trie` aka `prefix tree` is a special form of a `Nary tree`
 
-In this card we will go deep into the implementatioin of Trie and talk about how to use this data structure to solve problems
+In this card we will go deep into the implementation of Trie and talk about how to use this data structure to solve problems
 
 After completing this card you should be able to 
 1. understand the `concept` of Trie

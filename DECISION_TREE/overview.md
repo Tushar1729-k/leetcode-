@@ -6,11 +6,11 @@ this card is intended to illustrate a classic algorithm for the classification p
 by completing this card u will b able to
 1. understand the intuition behind decision tree
 2. implement the algo of `decision tree`
-3. understand the important metrics (`gini impurity`, `entropy`) that contructing a decisiion tree involves
+3. understand the important metrics (`gini impurity`, `entropy`) that constructing a decision tree involves
 4. know how to evaluate the performance of decision tree model and the importance of input features
 
 ## definition
-- defintion - decision tree
+- definition - decision tree
 - model inference - decision tree
 - algo - decision tree
 
@@ -25,3 +25,4 @@ by completing this card u will b able to
 ## evaluation
 - precision vs recall
 - feature importance - decision tree
+
